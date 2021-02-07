@@ -1,0 +1,21 @@
+############ Multiple Inheritance ############
+class A 
+pass
+class B
+pass 
+class C
+
+class D(A,B,C)
+
+
+############ Multi-level Inheritance ############
+class A    
+pass
+class B(A)
+pass 
+class C(B)
+
+
+
+Difference bt overloading and over-riding 
+ 
