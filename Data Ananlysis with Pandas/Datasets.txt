@@ -1,0 +1,3 @@
+beer serving data set --> https://github.com/justmarkham/DAT8/blob/master/data/beer.txt
+crime report data set --> https://raw.githubusercontent.com/guipsamora/pandas_exercises/master/04_Apply/US_Crime_Rates/US_Crime_Rates_1960_2014.csv
+car data set --> https://github.com/vincentarelbundock/Rdatasets/blob/master/datasets.csv
