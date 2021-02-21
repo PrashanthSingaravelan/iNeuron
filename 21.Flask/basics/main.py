@@ -1,5 +1,5 @@
-from flask import Flask, requests
-app = Flask(__name__)
+from flask import Flask, request
+app = Flask(__name__)       ## Creating a flask object
 
 @app.route("/about")
 def hello():

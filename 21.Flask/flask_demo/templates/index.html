@@ -1,30 +1,36 @@
 
+<head>
+    <meta charset="UTF-8">
+    <title>
+        Calculator
+    </title>
 
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
 
-{% block head %}
-
-<title>Calculator</title>
-<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
-{% endblock %}
-
-{% block body %}
 <div class="content">
     <h1 style="text-align: center">Calculator</h1>
 
+
     <div class="form">
         <form action="/math" method="POST">
-            <label for="operation">Choose a Mathematical Operation</label>
+            <label for="operation_html">  <!--operation_html input from user web-page-->
+                Choose a Mathematical Operation
+            </label>
+    <!--User has to select from any one of these options -->
+        <select id="operation_html" name="operation_html">
+              <option value="add">      add     </option>
+              <option value="subtract"> subtract</option>
+              <option value="multiply"> multiply</option>
+              <option value="divide">   divide  </option>
+        </select>
 
-<select id="operation" name="operation">
-  <option value="add">add</option>
-  <option value="subtract">subtract</option>
-  <option value="multiply">multiply</option>
-  <option value="divide">divide</option>
-</select>
-            <input type="text" name="num1" id="num1">
-            <input type="text" name="num2" id="num2">
+    <!--User has to give input num1_html and num2_html from user web-page -->
+            <input type="text" name="num1_html" id="num1_html">
+            <input type="text" name="num2_html" id="num2_html">
             <input type="submit" value="Calculate">
         </form>
     </div>
+
 </div>
-{% endblock %}
+
