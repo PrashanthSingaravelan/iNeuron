@@ -11,8 +11,8 @@ type({2}) # set
 # subset vs supersubset in sets
 
 # Iterator (vs) Genearator 
-iter()  --> 
-yield() --> 
+#iter()  --> 
+#yield() --> 
 ## Iterator  --> lazy evaluation --> Save in the memory and after-wards calling that we will get the values
 a=iter([1,2,3,4,5,6])  
 print(a)
@@ -23,4 +23,4 @@ next(a)  # the pointer is in 1
 for i in a:  # the pointer will go from 2
     print(i)
 
-a[2] # will through error
+#a[2] # will through error
