@@ -1,0 +1,1 @@
+Handle NaN values --> https://towardsdatascience.com/5-methods-to-check-for-nan-values-in-in-python-3f21ddd17eed
