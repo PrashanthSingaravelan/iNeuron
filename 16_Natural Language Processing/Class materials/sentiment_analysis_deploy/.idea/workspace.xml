@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0be0e217-9d36-44fb-bf64-ad74ac574ee6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/rouge" />
+  </component>
+  <component name="JupyterTrust" id="6a3ee546-02e5-4070-baf0-ba936f633745" />
+  <component name="ProjectId" id="1V0HDIolal6lN6cCIP8NpPkEH88" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\TwitterSentimentAnalysis\com_in_ineuron_ai_utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="C:\Users\user\PycharmProjects\TwitterSentimentAnalysis\com_in_ineuron_ai_utils" />
+      <recent name="C:\Users\user\PycharmProjects\TwitterSentimentAnalysis\com_in_ineuron_ai_training" />
+      <recent name="C:\Users\user\PycharmProjects\TwitterSentimentAnalysis\com_in_ineuron_ai_prediction" />
+      <recent name="C:\Users\user\PycharmProjects\TwitterSentimentAnalysis" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.clientApp">
+    <configuration name="Rogue_implementation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TwitterSentimentAnalysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rogue_implementation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clientApp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TwitterSentimentAnalysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clientApp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TwitterSentimentAnalysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TwitterSentimentAnalysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com_in_ineuron_ai_training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com_in_ineuron_ai_training/trainApp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TwitterSentimentAnalysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com_in_ineuron_ai_utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com_in_ineuron_ai_utils/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.clientApp" />
+        <item itemvalue="Python.utils" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.Rogue_implementation" />
+        <item itemvalue="Python.train" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0be0e217-9d36-44fb-bf64-ad74ac574ee6" name="Default Changelist" comment="" />
+      <created>1576382972534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576382972534</updated>
+      <workItem from="1585409411432" duration="2716000" />
+      <workItem from="1585494429844" duration="7297000" />
+      <workItem from="1586965915923" duration="2477000" />
+      <workItem from="1587201205516" duration="6121000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/rouge" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="283" y="193" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587206916979">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="283" y="193" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1587206916979" />
+    <state x="1106" y="189" width="351" height="586" key="#xdebugger.evaluate" timestamp="1579080123641">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="1106" y="189" key="#xdebugger.evaluate/0.0.1536.834@0.0.1536.834" timestamp="1579080123641" />
+    <state x="521" y="140" width="512" height="479" key="FileChooserDialogImpl" timestamp="1585409465234">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="521" y="140" width="512" height="479" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585409465234" />
+    <state width="1485" height="267" key="GridCell.Tab.0.bottom" timestamp="1587207068891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="267" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587207068891" />
+    <state width="1515" height="256" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579080924612" />
+    <state width="1485" height="267" key="GridCell.Tab.0.center" timestamp="1587207068891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="267" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587207068891" />
+    <state width="1515" height="256" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1579080924612" />
+    <state width="1485" height="267" key="GridCell.Tab.0.left" timestamp="1587207068890">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="267" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587207068890" />
+    <state width="1515" height="256" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1579080924612" />
+    <state width="1485" height="267" key="GridCell.Tab.0.right" timestamp="1587207068891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="267" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587207068891" />
+    <state width="1515" height="256" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1579080924612" />
+    <state width="1485" height="267" key="GridCell.Tab.1.bottom" timestamp="1587207150145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="267" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587207150145" />
+    <state width="1515" height="256" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579080924613" />
+    <state width="1485" height="267" key="GridCell.Tab.1.center" timestamp="1587207150145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="267" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587207150145" />
+    <state width="1515" height="256" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1579080924612" />
+    <state width="1485" height="267" key="GridCell.Tab.1.left" timestamp="1587207150144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="267" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587207150144" />
+    <state width="1515" height="256" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1579080924612" />
+    <state width="1485" height="267" key="GridCell.Tab.1.right" timestamp="1587207150145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="267" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587207150145" />
+    <state width="1515" height="256" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1579080924612" />
+    <state x="207" y="0" key="SettingsEditor" timestamp="1585500148561">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="207" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585500148561" />
+    <state width="776" height="420" key="XDebugger.FullValuePopup" timestamp="1587207684686">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="776" height="420" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1587207684686" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rouge/rouge/rouge_score.py</url>
+          <line>247</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com_in_ineuron_ai_training/trainApp.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com_in_ineuron_ai_training/trainApp.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com_in_ineuron_ai_utils/utils.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/clientApp.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/clientApp.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/clientApp.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/clientApp.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com_in_ineuron_ai_training/trainApp.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com_in_ineuron_ai_utils/utils.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="df.dtypes" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sentiment_analysis_deploy$utils.coverage" NAME="utils Coverage Results" MODIFIED="1585496219760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com_in_ineuron_ai_utils" />
+    <SUITE FILE_PATH="coverage/sentiment_analysis_deploy$clientApp.coverage" NAME="clientApp Coverage Results" MODIFIED="1587207068233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
